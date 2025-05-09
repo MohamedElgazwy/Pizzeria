@@ -8,7 +8,7 @@ An interactive pizza ordering interface built using React. Designed with a respo
 
 ## 📸 Screenshot
 
-![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria-react/raw/main/screenshot.png)
+![Pizzeria Screenshot](https://github.com/MohamedElgazwy/Pizzeria/raw/main/screenshot.png)
 
 ---
 
